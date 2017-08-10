@@ -1,0 +1,50 @@
+
+Create GIT project and First commit
+
+---------------------------------------------
+
+Connect Github account, create a new project
+***
+https://github.com/mickybone?tab=repositories
+
+----------------------------------------------
+
+Give a repository name and click on "create repository"
+***
+Exemple name repo : "third"
+
+----------------------------------------------
+
+Just copy this and wait next step (follow "third" exemple)
+***
+echo "# third" >> README.md
+git init
+git add README.md
+git commit -m "third commit"
+git remote add origin https://github.com/mickybone/third.git
+git push -u origin master
+
+----------------------------------------------
+
+In the local project, open :
+'.git > config'
+
+----------------------------------------------
+
+Change URL remote 'origin' with name new create project
+'third' (follow exemple) and save it.
+
+------------------------------------------------
+
+Open 'cmd.exe' > go root project > copy the step 3 code
+***
+echo "# third" >> README.md
+git init
+git add README.md
+git commit -m "third commit"
+git remote add origin https://github.com/mickybone/third.git
+git push -u origin master
+
+------------------------------------------------
+
+The commit on Git done.
