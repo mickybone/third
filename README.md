@@ -36,3 +36,4 @@ In the gulpfile.js, browser sync is calling chrome canary. If you don't have or 
 
 If you have a great package that can be added or you think something can be tweaked, by all means fork, clone, and submit a PR. I am welcome to everything.
 "# first_project" 
+"# second_project" 
